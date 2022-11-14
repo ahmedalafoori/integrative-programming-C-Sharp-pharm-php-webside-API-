@@ -14,6 +14,7 @@ Project goals:
 
 
 Study software components:
+
 Windows 10
 Database(PHP MY ADMIN)
 Microsoft visual studio.
