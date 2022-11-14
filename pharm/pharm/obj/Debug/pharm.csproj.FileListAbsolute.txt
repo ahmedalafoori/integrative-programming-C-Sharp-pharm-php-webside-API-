@@ -1,0 +1,63 @@
+D:\my project c#\pharm project\pharm\pharm\bin\Debug\pharm.exe.config
+D:\my project c#\pharm project\pharm\pharm\bin\Debug\pharm.exe
+D:\my project c#\pharm project\pharm\pharm\bin\Debug\pharm.pdb
+D:\my project c#\pharm project\pharm\pharm\obj\Debug\pharm.csprojAssemblyReference.cache
+D:\my project c#\pharm project\pharm\pharm\obj\Debug\pharm.Form1.resources
+D:\my project c#\pharm project\pharm\pharm\obj\Debug\pharm.Properties.Resources.resources
+D:\my project c#\pharm project\pharm\pharm\obj\Debug\pharm.csproj.GenerateResource.cache
+D:\my project c#\pharm project\pharm\pharm\obj\Debug\pharm.csproj.CoreCompileInputs.cache
+D:\my project c#\pharm project\pharm\pharm\obj\Debug\pharm.exe
+D:\my project c#\pharm project\pharm\pharm\obj\Debug\pharm.pdb
+D:\my project c#\pharm project\pharm\pharm\obj\Debug\pharm.مخزن.resources
+D:\my project c#\pharm project\pharm\pharm\obj\Debug\pharm.مبيعات.resources
+C:\Users\user\Desktop\pharm project\pharm\pharm\bin\Debug\pharm.exe.config
+C:\Users\user\Desktop\pharm project\pharm\pharm\bin\Debug\pharm.exe
+C:\Users\user\Desktop\pharm project\pharm\pharm\bin\Debug\pharm.pdb
+C:\Users\user\Desktop\pharm project\pharm\pharm\obj\Debug\pharm.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\pharm project\pharm\pharm\obj\Debug\pharm.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\pharm project\pharm\pharm\obj\Debug\pharm.Form1.resources
+C:\Users\user\Desktop\pharm project\pharm\pharm\obj\Debug\pharm.Properties.Resources.resources
+C:\Users\user\Desktop\pharm project\pharm\pharm\obj\Debug\pharm.مبيعات.resources
+C:\Users\user\Desktop\pharm project\pharm\pharm\obj\Debug\pharm.مخزن.resources
+C:\Users\user\Desktop\pharm project\pharm\pharm\obj\Debug\pharm.csproj.GenerateResource.cache
+C:\Users\user\Desktop\pharm project\pharm\pharm\obj\Debug\pharm.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\pharm project\pharm\pharm\obj\Debug\pharm.exe
+C:\Users\user\Desktop\pharm project\pharm\pharm\obj\Debug\pharm.pdb
+C:\Users\user\Desktop\pharm project\pharm\pharm\obj\Debug\pharm.Expenses.resources
+C:\Users\user\Desktop\pharm project\pharm\pharm\obj\Debug\pharm.مرتجع_مبيعات.resources
+C:\Users\user\Desktop\pharm project\pharm\pharm\obj\Debug\pharm.مرتجع_مخزون.resources
+D:\my project c#\project Alwaed webside\pharm project\pharm\pharm\bin\Debug\pharm.exe.config
+D:\my project c#\project Alwaed webside\pharm project\pharm\pharm\bin\Debug\pharm.exe
+D:\my project c#\project Alwaed webside\pharm project\pharm\pharm\bin\Debug\pharm.pdb
+D:\my project c#\project Alwaed webside\pharm project\pharm\pharm\obj\Debug\pharm.csprojAssemblyReference.cache
+D:\my project c#\project Alwaed webside\pharm project\pharm\pharm\obj\Debug\pharm.Expenses.resources
+D:\my project c#\project Alwaed webside\pharm project\pharm\pharm\obj\Debug\pharm.Form1.resources
+D:\my project c#\project Alwaed webside\pharm project\pharm\pharm\obj\Debug\pharm.Properties.Resources.resources
+D:\my project c#\project Alwaed webside\pharm project\pharm\pharm\obj\Debug\pharm.مبيعات.resources
+D:\my project c#\project Alwaed webside\pharm project\pharm\pharm\obj\Debug\pharm.مخزن.resources
+D:\my project c#\project Alwaed webside\pharm project\pharm\pharm\obj\Debug\pharm.مرتجع_مبيعات.resources
+D:\my project c#\project Alwaed webside\pharm project\pharm\pharm\obj\Debug\pharm.مرتجع_مخزون.resources
+D:\my project c#\project Alwaed webside\pharm project\pharm\pharm\obj\Debug\pharm.csproj.GenerateResource.cache
+D:\my project c#\project Alwaed webside\pharm project\pharm\pharm\obj\Debug\pharm.csproj.CoreCompileInputs.cache
+D:\my project c#\project Alwaed webside\pharm project\pharm\pharm\obj\Debug\pharm.exe
+D:\my project c#\project Alwaed webside\pharm project\pharm\pharm\obj\Debug\pharm.pdb
+D:\my project c#\project Alwaed webside\pharm project\pharm\pharm\obj\Debug\pharm.login.resources
+D:\my project c#\project Alwaed webside\pharm project\pharm\pharm\obj\Debug\pharm.Adduser.resources
+C:\Users\user\Desktop\last\pharm\pharm\bin\Debug\pharm.exe.config
+C:\Users\user\Desktop\last\pharm\pharm\bin\Debug\pharm.exe
+C:\Users\user\Desktop\last\pharm\pharm\bin\Debug\pharm.pdb
+C:\Users\user\Desktop\last\pharm\pharm\obj\Debug\pharm.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\last\pharm\pharm\obj\Debug\pharm.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\last\pharm\pharm\obj\Debug\pharm.Adduser.resources
+C:\Users\user\Desktop\last\pharm\pharm\obj\Debug\pharm.Expenses.resources
+C:\Users\user\Desktop\last\pharm\pharm\obj\Debug\pharm.Form1.resources
+C:\Users\user\Desktop\last\pharm\pharm\obj\Debug\pharm.login.resources
+C:\Users\user\Desktop\last\pharm\pharm\obj\Debug\pharm.Properties.Resources.resources
+C:\Users\user\Desktop\last\pharm\pharm\obj\Debug\pharm.مبيعات.resources
+C:\Users\user\Desktop\last\pharm\pharm\obj\Debug\pharm.مخزن.resources
+C:\Users\user\Desktop\last\pharm\pharm\obj\Debug\pharm.مرتجع_مبيعات.resources
+C:\Users\user\Desktop\last\pharm\pharm\obj\Debug\pharm.مرتجع_مخزون.resources
+C:\Users\user\Desktop\last\pharm\pharm\obj\Debug\pharm.csproj.GenerateResource.cache
+C:\Users\user\Desktop\last\pharm\pharm\obj\Debug\pharm.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\last\pharm\pharm\obj\Debug\pharm.exe
+C:\Users\user\Desktop\last\pharm\pharm\obj\Debug\pharm.pdb
